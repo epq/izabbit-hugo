@@ -1,0 +1,32 @@
+baseurl = "https://izabbit.me/"
+theme = "cocoa-eh"
+builddrafts = true
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Elizabeth Chan"
+title = "izabbit.me"
+disqusshortname = ""
+pluralizelisttitles = false
+
+[permalinks]
+blog = "blog/:slug/"
+
+[params]
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "izabbit's garden"
+#copyright = "Copyright © 2015 Nishanth Shanmugham"
+logofile = "img/aerialpig_500px.png"
+faviconfile = "img/aerialpig_500px.png"
+highlightjs = true
+progressively = true
+lang = "en"
+github = "epq"
+email = "elizabethcpq@gmail.com"
+#linkedin = "john-example-aa80ue8è"
+twitter = "izabbit"
+social_banner = "img/banner.png"
+posts_navigation = true
