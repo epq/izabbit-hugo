@@ -1,4 +1,4 @@
-baseurl = "https://izabbit.me/"
+baseurl = "http://izabbit.me/"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
